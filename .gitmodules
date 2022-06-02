@@ -2,3 +2,8 @@
 	path = l10n-mexico
 	url = git@github.com:Jarsa/l10n-mexico.git
 	branch = 14.0
+
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:Jarsa/partner-contact.git
+	branch = 14.0
