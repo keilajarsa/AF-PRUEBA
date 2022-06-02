@@ -1,0 +1,4 @@
+[submodule "l10n-mexico"]
+	path = l10n-mexico
+	url = git@github.com:Jarsa/l10n-mexico.git
+	branch = 14.0
